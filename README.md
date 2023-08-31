@@ -2,7 +2,7 @@
 
 Repositório relacionado a formação de Power BI Analyst
 
-# Objrtivo:
+# Objetivo:
  criar um relatório mais elaborado com base na sample financials do Power BI. Os arquivos de dados estão disponíveis no github: 
 
 https://github.com/julianazanelatto/power_bi_analyst  --> ao qual foi realizado o fork.
